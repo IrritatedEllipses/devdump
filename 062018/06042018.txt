@@ -1,0 +1,36 @@
+Monday, June 4th 2018 b{DEV DUMP}b
+
+http://chattypics.com/files/MSMergeConflict_utkn58omtg.jpg
+
+
+g{Links you've already clicked}g
+
+Microsoft rumored to have acquired GitHub.
+https://www.theverge.com/2018/6/3/17422752/microsoft-github-acquisition-rumors
+https://developers.slashdot.org/story/18/06/04/0935200/microsofts-interest-in-buying-github-draws-backlash-from-developers
+
+
+What struck me is that it was valued at $2b. That's... How. $110m annual revenue though, that's a lot more than I expected.
+
+
+Flexbox explained in 8 minutes.
+https://www.youtube.com/watch?v=4GaHn08BXQw&feature=youtu.be
+
+You know I spent two days reading through docs about Flexbox when I started five months ago. I'd like to think I have it (mostly) figured out but I wish to god I had had this video. It would have been amazing.
+
+
+Facebook is NOT moving away from React Native
+https://twitter.com/sophiebits/status/1003090742296735744
+
+Spent the weekend reading a few panicked tweets about Facebooks departure from React Native. Nice to see confirmation that they're not ready to move on quite yet.
+
+
+How it feels to learn JavaScript (In 2016)
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
+
+/[No JavaScript Frameworks were created in during the writing of this article]/
+
+
+
+
+
