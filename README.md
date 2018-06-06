@@ -2,6 +2,8 @@
 
 A repository for archives, design notes, and future plans for the Daily Dev Dump posted at <http://www.shacknews.com/chatty>.
 
+An ongoing project for an archive UI is available at <https://github.com/IrritatedEllipses/devdump-ui>
+
 ***
 
 ## What is the Daily Dev Dump
