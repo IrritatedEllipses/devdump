@@ -2,7 +2,7 @@
 
 ## Description of Dev Dump
 
-Dev Dump is a daily thread on the Shacknews Chatty ( <http://www.shacknews.com/chatty> ) where Developers of all types can come together to ask ask questions, talk about their developer experiences, discuss current events in the development world, and learn from each other. Dev Dump is an all inclusive discussion for developers of all skill levels, whether retired from a life long career of creating or merely just interested in making "Hello, World!" appear on the screen for the very first time.
+Dev Dump is a daily thread on the Shacknews Chatty ( <http://www.shacknews.com/chatty> ) where Developers of all types can come together to ask questions, talk about their developer experiences, discuss current events in the development world, and learn from each other. Dev Dump is an all inclusive discussion for developers of all skill levels, whether retired from a life long career of creating or merely just interested in making "Hello, World!" appear on the screen for the very first time.
 ***
 
 ## Structure of normal Daily Dev Dump

@@ -10,11 +10,9 @@ Daily Dev Dump is currently a daily thread on the Shacknews Chatty ( <http://www
 
 The completely misnamed Daily Dev Dump is posted most weekdays and usually at least once on the weekend.
 
-***
-
 ## What is this repository
 
-Currently this repository holds an archive of the Daily Dev Dump as posted by user TotalFusionOne starting from June 4th, 2018. The repository also holds a Dev Dump Design Rules file that serves as a mock up / example of documentation to be used for future projects. 
+Currently this repository holds an archive of the Daily Dev Dump as posted by user TotalFusionOne starting from June 4th, 2018. The repository also holds a Dev Dump Design Rules file that serves as a mock up / example of documentation to be used for future projects.
 
 ## What are the future plans for this repository
 
