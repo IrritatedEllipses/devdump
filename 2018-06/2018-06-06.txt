@@ -1,0 +1,30 @@
+June 6th, 2018 b{DEV DUMP}b
+
+http://chattypics.com/files/MeaningfulVariables_6s275fsrag.jpg
+
+g{Links you've already clicked}g
+
+If you're really worried about the GitHub acquisition, here's what to look out for.
+https://userinterfacing.com/if-youre-really-worried-about-the-github-acquisition-heres-what-to-look-out-for/
+
+A level headed article that will hopefully soothe the worried soul about the GitHub acquisition. I especially liked the ToS point.
+
+
+Case Study: lynnandtonic.com 2017 refresh
+https://blog.andyet.com/2018/01/09/case-study-lynnandtonic-refresh/
+
+When I was first learning CSS Grid I was pointed Lynn Fisher's site to see god-mode Grid in action. The site is seriously gridtastic, with breakpoints for nearly all conceivable screen sizes. This piece on their motivation and philosophy behind the site is quite inspiring to me.
+
+
+A beginner's guide to writing documentation
+http://docs.writethedocs.org/guide/writing/beginners-guide-to-docs/
+
+Something that I've been studying feverishly over the last 24 hours is how to write documentation. This simple talking-to has been absolutely fantastic to read. 
+
+g{A few notes on Dev Dump}g
+
+I've decided that, in order to hold myself accountable and stick to a daily schedule, I'm going to start uploading the main portion of Dev Dump to a GitHub repo (Because I'm a dirty, dirty Microsoft Shill as I was lovingly told). Eventually that repo will be hosted into a GitHub page where I can have it displayed nicely, not to mention if for some reason you wanted to have a local copy of all of this you'd be able to fork it at any time.
+
+https://github.com/IrritatedEllipses/devdump
+
+This whole Dev Dump idea is a totally selfish endeavour, tapping into your knowledge so that I can further myself, and I thank you all for it. Reading these threads has become a source of daily joy for me.
