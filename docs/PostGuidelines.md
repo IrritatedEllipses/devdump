@@ -55,3 +55,25 @@ Referral links that benefit Dev Dump, partners of Dev Dump, or people personally
         r{REFERRAL LINK}r
 
 * A non referral link is provided plainly and visibly within the body of the article.
+
+## Dev Dump Header Snippet
+
+The following is a snippet in JSON for Visual Studio Code which can be used in the user added Markdown section to help guide how the Dev Dump should be formatted:
+
+```javascript
+"Dev Dump Template": {
+
+        "prefix": "devd",
+        "body": [
+                "### $CURRENT_DAY_NAME, $CURRENT_MONTH_NAME $CURRENT_DATE, $CURRENT_YEAR b{DEV DUMP}b",
+                "",
+                "<$1>",
+                "",
+                "## g{Links you've already Clicked}g",
+                "",
+                "### $0"
+
+        ],
+        "description": "Dev Dump heading"
+},
+```
