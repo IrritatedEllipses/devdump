@@ -51,14 +51,14 @@ EVDB.API.call = function (sMethod, args, fnCallback) {
         return false;
     }
     return true;
-}
+};
 EVDB.API.error = function (sText) {
     var elDiv = document.createElement("div");
     elDiv.appendChild(document.createTextNode(sText));
     document.body.insertBefore(elDiv, document.body.firstChild);
     elDiv.setAttribute("style", "margin:1em;padding:0.5em;border:2px dashed " + "#ff9999;font-size:12px;color:red;");
     return true;
-}
+};
 EVDB.API._complete = function (idRequest, oData) {
     var requestData = EVDB.API.requests[idRequest] || null;
     if (requestData) {
@@ -80,11 +80,11 @@ EVDB.API._complete = function (idRequest, oData) {
         EVDB.API.error("Invalid request id.");
     }
     return false;
-}
+};
 EVDB.API._serialize = function (oFrom) {
     var aTemp = [];
     for (var i in oFrom) {
         aTemp.push(encodeURIComponent(i) + '=' + encodeURIComponent(oFrom[i]));
     }
     return aTemp.join('&');
-}
+};
